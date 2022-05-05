@@ -1,5 +1,6 @@
 {
   "name": "pistol",
+  "description": "pistol",
   "start_url": "index.js",
   "components": [
     {
